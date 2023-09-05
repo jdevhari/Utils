@@ -1,39 +1,39 @@
 # Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-choco install adobereader --version 2023.3.20284 -y
-choco install googlechrome --version 116.0.5845.141 -y
-choco install firefox --version 117.0.0 -y
-choco install chocolatey-core.extension --version 1.4.0 -y
-choco install python3 --version 3.11.5 -y
-choco install microsoft-edge --version 116.0.1938.69 -y
-choco install zoom --version 5.15.11.21032 -y
-choco install notepadplusplus.install --version 8.5.6 -y
-choco install 7zip.install --version 23.1.0 -y
-choco install 7zip --version 23.1.0 -y
-choco install git.install --version 2.42.0 -y
-choco install nodejs.install --version 20.5.1 -y
-choco install openssh --version 8.0.0.1 -y
-choco install vscode --version 1.81.1 -y
-choco install skype --version 8.103.0.208 -y
-choco install wget --version 1.21.4 -y
+choco install adobereader -y
+choco install googlechrome -y
+choco install firefox -y
+choco install chocolatey-core.extension  -y
+choco install python3 -y
+choco install microsoft-edge -y
+choco install zoom -y
+choco install notepadplusplus.install -y
+choco install 7zip.install -y
+choco install git.install -y
+choco install nodejs.install -y
+choco install openssh -y
+choco install vscode  -y
+choco install skype  -y
+choco install wget  -y
 choco install javaruntime --version 8.0.231 -y
-choco install vscode.install --version 1.81.1 -y
-choco install putty.install --version 0.79.0 -y
-choco install filezilla --version 3.65.0 -y
-choco install microsoft-windows-terminal --version 1.17.11461.0 -y
-choco install putty --version 0.79.0 -y
-choco install zoom-outlook --version 5.15.5.926 -y
-choco install chocolateygui --version 2.1.0 -y
-choco install vlc.install --version 3.0.18 -y
-choco install cygwin --version 3.4.8 -y
-choco install powertoys --version 0.73.0 -y
-choco install postman --version 10.17.3 -y
-choco install procexp --version 17.5.0 -y
-choco install golang --version 1.21.0 -y
-choco install webex-meetings --version 43.9.0.121 -y
-choco install filebeat --version 7.15.1 -y
-choco install openssl --version 3.1.1 -y
-choco install windirstat --version 1.1.2.20161210 -y
-choco install wsl2 --version 2.0.0.20210721 -y
+choco install vscode.install  -y
+choco install putty.install  -y
+choco install filezilla  -y
+choco install microsoft-windows-terminal  -y
+choco install zoom-outlook  -y
+choco install chocolateygui  -y
+choco install vlc.install  -y
+choco install cygwin  -y
+choco install powertoys  -y
+choco install postman  -y
+choco install procexp  -y
+choco install golang  -y
+choco install webex-meetings  -y
+choco install filebeat  -y
+choco install openssl  -y
+choco install discord -y
+choco install windirstat  -y
+choco install wsl2  -y
 choco install maven --version 3.9.4 -y
-choco install telegram
+choco install telegram -y
+
