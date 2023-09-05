@@ -15,6 +15,10 @@ choco install openssh -y
 choco install vscode  -y
 choco install skype  -y
 choco install wget  -y
+choco install jdk8 -y
+choco install oracle17jdk -y
+choco install corretto11jdk
+choco install jdk20 -y
 choco install javaruntime --version 8.0.231 -y
 choco install vscode.install  -y
 choco install putty.install  -y
