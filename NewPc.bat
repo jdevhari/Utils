@@ -36,3 +36,4 @@ choco install openssl --version 3.1.1 -y
 choco install windirstat --version 1.1.2.20161210 -y
 choco install wsl2 --version 2.0.0.20210721 -y
 choco install maven --version 3.9.4 -y
+choco install telegram
