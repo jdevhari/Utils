@@ -5,19 +5,16 @@ choco install googlechrome -y
 choco install firefox -y
 choco install chocolatey-core.extension  -y
 choco install python3 -y
-choco install microsoft-edge -y
 choco install zoom -y
 choco install notepadplusplus.install -y
 choco install 7zip.install -y
 choco install git.install -y
 choco install nodejs.install -y
 choco install openssh -y
-choco install vscode  -y
-choco install skype  -y
 choco install wget  -y
 choco install jdk8 -y
 choco install oracle17jdk -y
-choco install corretto11jdk
+choco install corretto11jdk -y
 choco install jdk20 -y
 choco install javaruntime --version 8.0.231 -y
 choco install vscode.install  -y
