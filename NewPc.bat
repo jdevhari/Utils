@@ -39,3 +39,5 @@ choco install maven --version 3.9.4 -y
 choco install telegram -y
 choco install steam -y
 choco install whatsapp -y
+choco install docker-desktop -y
+
