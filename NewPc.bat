@@ -40,4 +40,4 @@ choco install telegram -y
 choco install steam -y
 choco install whatsapp -y
 choco install docker-desktop -y
-
+choco install github-desktop
